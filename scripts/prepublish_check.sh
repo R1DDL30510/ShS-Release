@@ -12,6 +12,7 @@ EXCLUDES=(
   --glob '!evidence/prepublish_check_latest.txt'
   --glob '!evidence/pre_outreach_audit.txt'
   --glob '!evidence/final_audit_snapshot.txt'
+  --glob '!evidence/clean_prep_scan.txt'
   --glob '!PUBLISH_CHECKLIST.md'
   --glob '!CLAIMS_TO_EVIDENCE.md'
   --glob '!evidence/review_summary.md'
@@ -31,7 +32,8 @@ MARKERS=$(rg -n "TODO|TBD|FIXME|\$TS|Draft v1" . -S \
   --glob '!scripts/prepublish_check.sh' \
   --glob '!evidence/prepublish_check_latest.txt' \
   --glob '!evidence/pre_outreach_audit.txt' \
-  --glob '!evidence/final_audit_snapshot.txt' || true)
+  --glob '!evidence/final_audit_snapshot.txt'
+  --glob '!evidence/clean_prep_scan.txt' || true)
 if [[ -n "$MARKERS" ]]; then
   echo "$MARKERS"
   echo "WARN: markers found (review manually)"
@@ -55,7 +57,8 @@ IPV4=$(rg -n "\b([0-9]{1,3}\.){3}[0-9]{1,3}\b" . -S \
   --glob '!.git/*' \
   --glob '!evidence/prepublish_check_latest.txt' \
   --glob '!evidence/pre_outreach_audit.txt' \
-  --glob '!evidence/final_audit_snapshot.txt' || true)
+  --glob '!evidence/final_audit_snapshot.txt'
+  --glob '!evidence/clean_prep_scan.txt' || true)
 if [[ -n "$IPV4" ]]; then
   echo "$IPV4"
   echo "WARN: raw ipv4 found"
