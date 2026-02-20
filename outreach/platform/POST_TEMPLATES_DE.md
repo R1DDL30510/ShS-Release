@@ -11,8 +11,8 @@ Fokus:
 
 Kein Hype, sondern nachvollziehbare Proof-Artefakte + klare Scope-Grenzen.
 
-Repo: https://github.com/R1DDL30510/gar-release  
-Release: https://github.com/R1DDL30510/gar-release/releases/tag/v0.1.0-prelaunch
+Repo: https://github.com/R1DDL30510/ShS-Release  
+Release: https://github.com/R1DDL30510/ShS-Release/releases/tag/v0.1.0-prelaunch
 
 Wenn dein Setup instabil ist oder vor einem Launch steht: gerne melden.
 
@@ -27,4 +27,4 @@ Typische Probleme, die ich angehe:
 Ich habe dazu ein öffentliches Pre-Launch Repo mit echten Verify-Artefakten erstellt (inkl. Scope-Boundaries, Delivery-Templates, Acceptance Criteria).
 
 Feedback oder Pilot-Interesse?  
-https://github.com/R1DDL30510/gar-release
+https://github.com/R1DDL30510/ShS-Release

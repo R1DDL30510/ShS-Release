@@ -11,8 +11,8 @@ Focus areas:
 
 No hype—just verifiable artifacts and explicit scope boundaries.
 
-Repo: https://github.com/R1DDL30510/gar-release  
-Release: https://github.com/R1DDL30510/gar-release/releases/tag/v0.1.0-prelaunch
+Repo: https://github.com/R1DDL30510/ShS-Release  
+Release: https://github.com/R1DDL30510/ShS-Release/releases/tag/v0.1.0-prelaunch
 
 If your stack is unstable or launch-noisy, feel free to reach out.
 
@@ -27,4 +27,4 @@ Common issues addressed:
 Published as a public pre-launch repo with verify artifacts, scope boundaries, delivery templates, and strict acceptance criteria.
 
 Feedback or pilot interest welcome:
-https://github.com/R1DDL30510/gar-release
+https://github.com/R1DDL30510/ShS-Release

@@ -1,6 +1,6 @@
-# GAR Release — Product Proof Repository
+# ShS Release — Product Proof Repository
 
-Public-facing, evidence-only portfolio/release repo for GARVIS operational products.
+Public-facing, evidence-only portfolio/release repo for Secure Home Systems operational products.
 
 ## What you can reserve now (pilot/waitlist)
 1. **AI Stack Rescue (2h)** — fast diagnosis + recovery with proof
