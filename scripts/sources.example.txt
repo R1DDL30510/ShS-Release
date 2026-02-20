@@ -1,0 +1,7 @@
+# One source path per line (on shsgpi)
+# Copy to scripts/sources.txt and edit as needed
+/home/pi/planet/docs/planet-verify-gate-cleanup-2026-02-20.txt
+/home/pi/planet/docs/gate-cleanup-2026-02-20_1005.md
+/home/pi/planet/docs/launch-readiness-audit-2026-02-20_0958.md
+/home/pi/tts/FINALIZE_TTS_PINNED.md
+/home/pi/planet/docs/anti-drift-consolidation-v1.md

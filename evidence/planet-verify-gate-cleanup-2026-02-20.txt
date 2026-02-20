@@ -1,0 +1,15 @@
+PASS | systemd:caddy active
+PASS | systemd:docker active
+PASS | systemd:piper-tts active
+PASS | systemd:tts-drift-guard.timer active
+PASS | systemd:pihole-FTL active
+PASS | systemd:ollama active
+PASS | docker:webui-openwebui-1 up
+PASS | webui-local:3000 code=200
+PASS | tts:health reachable
+PASS | tts:/v1/audio/voices code=200
+PASS | tts:/v1/audio/models code=200
+PASS | tts:speech code=200 bytes=98976
+WARN | route:root code=000 (host-local check)
+WARN | route:ui code=000 (host-local check)
+PASS | systemd:failed_units=0

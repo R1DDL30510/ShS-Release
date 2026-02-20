@@ -1,0 +1,27 @@
+[email-scan-old]
+/Users/garvis/Desktop/ShS-Release-clean/assets/cards/card-02-local-ai-setup-tts.md:16:CTA: Pilot/waitlist booking via `a.krinov@icloud.com`
+/Users/garvis/Desktop/ShS-Release-clean/assets/cards/card-01-ai-stack-rescue.md:16:CTA: Pilot/waitlist booking via `a.krinov@icloud.com`
+/Users/garvis/Desktop/ShS-Release-clean/assets/cards/card-03-ops-audit-launch-gate.md:16:CTA: Pilot/waitlist booking via `a.krinov@icloud.com`
+/Users/garvis/Desktop/ShS-Release-clean/assets/cards/card-04-monitoring-baseline.md:16:CTA: Pilot/waitlist booking via `a.krinov@icloud.com`
+/Users/garvis/Desktop/ShS-Release-clean/CAPACITY_AND_BOOKING_POLICY.md:8:- Primary booking/contact: **a.krinov@icloud.com**
+/Users/garvis/Desktop/ShS-Release-clean/LANDING.md:52:Contact: a.krinov@icloud.com
+/Users/garvis/Desktop/ShS-Release-clean/LEGAL_TERMS.md:10:Kontakt: a.krinov@icloud.com
+/Users/garvis/Desktop/ShS-Release-clean/PRIVACY_NOTICE.md:26:a.krinov@icloud.com
+/Users/garvis/Desktop/ShS-Release-clean/COMMERCIAL_TERMS.md:6:a.krinov@icloud.com
+[email-scan-new]
+[secret-ish]
+/Users/garvis/Desktop/ShS-Release-clean/scripts/prepublish_check.sh:43:echo "== check: secrets patterns =="
+/Users/garvis/Desktop/ShS-Release-clean/scripts/prepublish_check.sh:44:SECRETS=$(rg -n "(api[_-]?key|token|secret|password|passwd|authorization:|bearer\s+|PRIVATE KEY|BEGIN [A-Z ]+PRIVATE KEY|ssh-rsa|ghp_[A-Za-z0-9]{20,}|sk-[A-Za-z0-9]{20,})" . -S "${EXCLUDES[@]}" || true)
+/Users/garvis/Desktop/ShS-Release-clean/scripts/prepublish_check.sh:47:  echo "WARN: potential secret-like strings found (inspect context)"
+/Users/garvis/Desktop/ShS-Release-clean/scripts/prepublish_check.sh:50:  echo "PASS: no secret-like patterns"
+/Users/garvis/Desktop/ShS-Release-clean/CLAIMS_TO_EVIDENCE.md:62:This repository is evidence-only and sanitized for external presentation. It excludes credentials and private operational secrets by design.
+/Users/garvis/Desktop/ShS-Release-clean/PUBLISH_CHECKLIST.md:6:- [ ] No credentials, tokens, API keys, cookies
+/Users/garvis/Desktop/ShS-Release-clean/evidence/prepublish_check_latest.txt:5:== check: secrets patterns ==
+/Users/garvis/Desktop/ShS-Release-clean/evidence/prepublish_check_latest.txt:6:PASS: no secret-like patterns
+/Users/garvis/Desktop/ShS-Release-clean/evidence/pre_outreach_audit.txt:3:== secrets ==
+/Users/garvis/Desktop/ShS-Release-clean/evidence/pre_outreach_audit.txt:4:/Users/garvis/Desktop/gar-release/CLAIMS_TO_EVIDENCE.md:62:This repository is evidence-only and sanitized for external presentation. It excludes credentials and private operational secrets by design.
+/Users/garvis/Desktop/ShS-Release-clean/evidence/pre_outreach_audit.txt:5:/Users/garvis/Desktop/gar-release/PUBLISH_CHECKLIST.md:6:- [ ] No credentials, tokens, API keys, cookies
+/Users/garvis/Desktop/ShS-Release-clean/evidence/pre_outreach_audit.txt:6:/Users/garvis/Desktop/gar-release/evidence/review_summary.md:3:- Secret/token patterns: no credential material detected.
+/Users/garvis/Desktop/ShS-Release-clean/evidence/final_audit_snapshot.txt:8:== check: secrets patterns ==
+/Users/garvis/Desktop/ShS-Release-clean/evidence/final_audit_snapshot.txt:9:PASS: no secret-like patterns
+/Users/garvis/Desktop/ShS-Release-clean/evidence/review_summary.md:3:- Secret/token patterns: no credential material detected.

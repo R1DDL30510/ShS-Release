@@ -1,0 +1,28 @@
+# Final Audit Snapshot
+Date: 2026-02-20 10:54:29 CET
+
+== check: local-only tracked files ==
+PASS: scripts/sources.txt not tracked
+== check: placeholder/todo markers ==
+PASS: no obvious markers
+== check: secrets patterns ==
+PASS: no secret-like patterns
+== check: raw ipv4 ==
+PASS: no raw ipv4
+== check: required docs ==
+PASS: README.md
+PASS: LANDING.md
+PASS: PRODUCT_MATRIX.md
+PASS: INTAKE_FORM.md
+PASS: DELIVERY_PACK_TEMPLATE.md
+PASS: FAQ.md
+PASS: CLAIMS_TO_EVIDENCE.md
+PASS: offers/OFFERS.md
+PASS: offers/SCOPE_AND_BOUNDARIES.md
+PASS: offers/ADDONS_AND_LIMITS.md
+PASS: evidence/EXEC_SUMMARY.md
+PASS: COMMERCIAL_TERMS.md
+PASS: LEGAL_TERMS.md
+PASS: PRIVACY_NOTICE.md
+== verdict ==
+PASS: publish-ready (pre-launch)

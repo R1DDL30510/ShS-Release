@@ -1,0 +1,7 @@
+== placeholders ==
+/Users/garvis/Desktop/gar-release/PUBLISH_CHECKLIST.md:4:- [ ] No raw internal IP addresses remain (except intentionally public-safe placeholders)
+== secrets ==
+/Users/garvis/Desktop/gar-release/CLAIMS_TO_EVIDENCE.md:62:This repository is evidence-only and sanitized for external presentation. It excludes credentials and private operational secrets by design.
+/Users/garvis/Desktop/gar-release/PUBLISH_CHECKLIST.md:6:- [ ] No credentials, tokens, API keys, cookies
+/Users/garvis/Desktop/gar-release/evidence/review_summary.md:3:- Secret/token patterns: no credential material detected.
+== ipv4 ==

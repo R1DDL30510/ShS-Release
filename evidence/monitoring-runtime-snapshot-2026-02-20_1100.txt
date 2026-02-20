@@ -1,0 +1,22 @@
+[systemd]
+active
+active
+active
+active
+active
+active
+
+[docker ps]
+webui-openwebui-1	Up 12 hours (healthy)
+mon-cadvisor	Up 12 hours (healthy)
+mon-node-exporter	Up 12 hours
+mon-grafana	Up 12 hours
+mon-prometheus	Up 12 hours
+mon-blackbox	Up 12 hours
+
+[monitoring containers]
+mon-cadvisor
+mon-node-exporter
+mon-grafana
+mon-prometheus
+mon-blackbox
