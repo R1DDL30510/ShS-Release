@@ -13,4 +13,4 @@ Get visibility clarity before you invest in full observability work.
 
 Proof: `MONITORING_SAMPLE_DELIVERY.md`, `evidence/monitoring-runtime-snapshot-2026-02-20_1100.txt`
 
-CTA: Pilot/waitlist booking via `a.krinov@icloud.com`
+CTA: Pilot/waitlist booking via `SecureHomeSystems@proton.me`

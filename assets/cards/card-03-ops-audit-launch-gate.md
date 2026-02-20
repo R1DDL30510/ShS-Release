@@ -13,4 +13,4 @@ Turn noisy systems into clear pass/warn/fail launch decisions.
 
 Proof: `evidence/gate-cleanup-2026-02-20_1005.md`, `evidence/EXEC_SUMMARY.md`
 
-CTA: Pilot/waitlist booking via `a.krinov@icloud.com`
+CTA: Pilot/waitlist booking via `SecureHomeSystems@proton.me`

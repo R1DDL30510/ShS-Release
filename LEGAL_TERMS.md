@@ -7,7 +7,7 @@
 Eicher Weg 10  
 57299 Burbach  
 Deutschland  
-Kontakt: a.krinov@icloud.com
+Kontakt: SecureHomeSystems@proton.me
 
 ## Leistungsart
 Technische Dienstleistungen im Bereich:

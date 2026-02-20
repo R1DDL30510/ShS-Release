@@ -13,4 +13,4 @@ Fix broken local/self-hosted AI stacks fast — with proof.
 
 Proof: `CLAIMS_TO_EVIDENCE.md`, `SAMPLE_DELIVERY_PACK.md`
 
-CTA: Pilot/waitlist booking via `a.krinov@icloud.com`
+CTA: Pilot/waitlist booking via `SecureHomeSystems@proton.me`

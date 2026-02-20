@@ -5,7 +5,7 @@
 - Waitlist slots: **max 2**
 
 ## Booking channel
-- Primary booking/contact: **a.krinov@icloud.com**
+- Primary booking/contact: **SecureHomeSystems@proton.me**
 
 ## Priority slot policy
 - Priority slot is offered **only when available**.

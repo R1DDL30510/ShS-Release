@@ -13,4 +13,4 @@ Build a stable local speech-enabled AI stack with reproducible checks.
 
 Proof: `SAMPLE_DELIVERY_PACK_02_TTS_SETUP.md`, `evidence/FINALIZE_TTS_PINNED.md`
 
-CTA: Pilot/waitlist booking via `a.krinov@icloud.com`
+CTA: Pilot/waitlist booking via `SecureHomeSystems@proton.me`

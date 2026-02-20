@@ -3,7 +3,7 @@
 ## Anbieter & Kontakt
 Secure Home Systems  
 Eicher Weg 10, 57299 Burbach, Deutschland  
-a.krinov@icloud.com
+SecureHomeSystems@proton.me
 
 ## Angebotsmodell
 Aktuell in Pre-Launch-Phase; Gewerbeanmeldung ist in Vorbereitung. Zahlungspflichtige Projektstarts erfolgen nach formaler Anmeldung.

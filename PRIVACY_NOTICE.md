@@ -23,4 +23,4 @@ Zur Durchführung technischer Dienstleistungen werden nur die Daten verarbeitet,
 Keine Weitergabe an Dritte, außer wenn gesetzlich erforderlich oder ausdrücklich vom Kunden beauftragt.
 
 ## Kontakt
-a.krinov@icloud.com
+SecureHomeSystems@proton.me

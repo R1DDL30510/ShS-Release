@@ -49,4 +49,4 @@ See full boundaries: `offers/SCOPE_AND_BOUNDARIES.md`
 ## Current status
 Pre-launch / pilot-waitlist phase.
 
-Contact: a.krinov@icloud.com
+Contact: SecureHomeSystems@proton.me
